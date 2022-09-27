@@ -2,7 +2,7 @@
 
 I'm a game developer currently working in Unity with experience in gameplay programming and design!
 
-<img src="https://github.com/ControlledChaos0/ControlledChaos0/blob/main/IMG_3297.png" alt="drawing" width="600"/>
+<img src="https://github.com/ControlledChaos0/ControlledChaos0/blob/main/githubMeme.png" alt="drawing" width="600"/>
 
 #### Facts About Me!
 - 💞️ The main project I'm programming and producing for is Willow, a top-down bullet-hell roguelike!
