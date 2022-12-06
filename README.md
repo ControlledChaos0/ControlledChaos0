@@ -2,7 +2,7 @@
 
 I'm a game developer currently working in Unity with experience in gameplay programming and design!
 
-##My Portfolio of Games!
+## My Portfolio of Games!
 https://controlledchaostv.itch.io/
 
 <img src="https://github.com/ControlledChaos0/ControlledChaos0/blob/main/githubMeme.png" alt="drawing" width="30%"/>
