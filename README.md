@@ -5,8 +5,6 @@ I'm a game developer currently working in Unity with experience in gameplay prog
 ## My Portfolio of Games!
 https://controlledchaostv.itch.io/
 
-<img src="https://github.com/ControlledChaos0/ControlledChaos0/blob/main/githubMeme.png" alt="drawing" width="30%"/>
-
 #### Facts About Me!
 - 💞️ The main project I'm programming and producing for is Willow, a top-down bullet-hell roguelike!
 - 🖥️ I’m currently learning computer graphics and becoming more proficient in Unity and C#!
