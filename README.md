@@ -6,8 +6,8 @@ I'm a game developer currently working in Unity with experience in gameplay prog
 https://controlledchaostv.itch.io/
 
 #### Facts About Me!
-- 💞️ The main project I'm programming and producing for is Willow, a top-down bullet-hell roguelike!
-- 🖥️ I’m currently learning computer graphics and becoming more proficient in Unity and C#!
+- 💞️ The main project I'm programming and producing for is Equinox, a 3D 0g space adventure!
+- 🖥️ I’m currently learning computer animation and becoming more proficient in Unity and C#!
 - 🔨 The next things I'm working on is learning C++ and UE4!
 
 #### Fun Facts About Me!
