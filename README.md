@@ -3,7 +3,7 @@
 I'm a game developer currently working in Unity with experience in gameplay programming and design!
 
 ## My Portfolio of Games!
-https://controlledchaostv.itch.io/
+jadespooner.xyz
 
 #### Facts About Me!
 - 💞️ The main project I'm programming and producing for is Equinox, a 3D 0g space adventure!
